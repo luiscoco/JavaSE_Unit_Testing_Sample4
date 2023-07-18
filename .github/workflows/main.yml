@@ -38,3 +38,6 @@ jobs:
 
     - name: Run tests
       run: mvn test
+      
+    - name: Start the application
+      run: mvn exec:java -e
