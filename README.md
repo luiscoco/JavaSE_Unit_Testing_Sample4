@@ -32,3 +32,13 @@ The code in the .gitignore file will be:
 ```
 /target
 ```
+
+## How to generate the JavaDocs
+
+To generate the JavaDocs run the command:
+
+```
+mvn javadoc:javadoc
+```
+
+The Javadocs will be generated inside the folder "target/site/apidocs/" 
