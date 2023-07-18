@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.timbuchalka.BankAccountTest" time="0.101" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.timbuchalka.BankAccountTest" time="0.06" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="19"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-19.0.2\bin"/>
-    <property name="sun.java.command" value="C:\Users\LENRIQ~1\AppData\Local\Temp\surefire10394482413462020025\surefirebooter15674353789655866372.jar C:\Users\LEnriquez\AppData\Local\Temp\surefire10394482413462020025 2023-07-18T11-40-16_562-jvmRun1 surefire17568641366927712416tmp surefire_04117995130040237791tmp"/>
+    <property name="sun.java.command" value="C:\Users\LENRIQ~1\AppData\Local\Temp\surefire14555212022579804250\surefirebooter15123686412688379093.jar C:\Users\LEnriquez\AppData\Local\Temp\surefire14555212022579804250 2023-07-18T11-51-31_274-jvmRun1 surefire16995851102887944005tmp surefire_011228916129943422250tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Java SE Luxoft training\Java17MasterClassUdemyTraining\section19\sample\demo\target\test-classes;C:\Java SE Luxoft training\Java17MasterClassUdemyTraining\section19\sample\demo\target\classes;C:\Users\LEnriquez\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\LEnriquez\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\LENRIQ~1\AppData\Local\Temp\surefire10394482413462020025\surefirebooter15674353789655866372.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\LENRIQ~1\AppData\Local\Temp\surefire14555212022579804250\surefirebooter15123686412688379093.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="19.0.2+7-44"/>
@@ -58,8 +58,8 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="63.0"/>
   </properties>
-  <testcase name="getBalance_withdraw" classname="com.timbuchalka.BankAccountTest" time="0.014"/>
+  <testcase name="getBalance_withdraw" classname="com.timbuchalka.BankAccountTest" time="0.008"/>
   <testcase name="isChecking_true" classname="com.timbuchalka.BankAccountTest" time="0"/>
   <testcase name="getBalance_deposit" classname="com.timbuchalka.BankAccountTest" time="0"/>
-  <testcase name="deposit" classname="com.timbuchalka.BankAccountTest" time="0.001"/>
+  <testcase name="deposit" classname="com.timbuchalka.BankAccountTest" time="0"/>
 </testsuite>
