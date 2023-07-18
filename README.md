@@ -42,3 +42,7 @@ mvn javadoc:javadoc
 ```
 
 The Javadocs will be generated inside the folder "target/site/apidocs/" 
+
+![image](https://github.com/luiscoco/JavaSE_Unit_Testing_Sample4/assets/32194879/913637fa-314d-40d6-b745-842759ece5fd)
+
+
